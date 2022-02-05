@@ -43,7 +43,7 @@ header nav a:hover {
 /*filme principal*/
 .filme-principal {
     font-size: 15px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(img/The-Silent-Sea-season-2-696x394.jpg);
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(img/la-casa-de-papel\ \(1\).jpg);
     height: 400px;
     background-size:cover ;
     display: flex;
